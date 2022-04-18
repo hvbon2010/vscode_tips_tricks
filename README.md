@@ -1,6 +1,6 @@
 # Shortcut commands useful
 
-Refer: https://code.visualstudio.com/docs/getstarted/tips-and-tricks#:~:text=Select%20a%20symbol%20then%20type,command%20or%20Ctrl%2BAlt%2B%2D.
+Refer: https://code.visualstudio.com/docs/getstarted/tips-and-tricks
 
 ## Open settings
 `Command + Shift + P`
