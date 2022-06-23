@@ -34,4 +34,5 @@ Unfold all:
 
 ## Sync account
 We should sign in account to sync vscode settings.
+
 ![alt text](vscode_sign_in_account.png)
