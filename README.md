@@ -51,7 +51,7 @@ We should sign in account to sync vscode settings.
 <img width="744" alt="EXTENSIONS MARKETPLACE" src="https://user-images.githubusercontent.com/32226325/190559015-34922517-b8be-4a42-9905-672ab121ee0a.png">
 
 ### Code debugging, navigation
-Use Intelli Senser or Clangd
+Use Intelli Sense or Clangd
 
 ![Pasted Graphic 5](https://user-images.githubusercontent.com/32226325/190559132-c42312f9-6168-4376-82f4-7657786c3e8c.png)
 
