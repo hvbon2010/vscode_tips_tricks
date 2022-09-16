@@ -36,3 +36,6 @@ Unfold all:
 We should sign in account to sync vscode settings.
 
 ![alt text](vscode_sign_in_account.png)
+
+## Use vscode Intelli Sense to navigate code
+<img width="981" alt="Pasted Graphic" src="https://user-images.githubusercontent.com/32226325/190558435-4e132737-cfea-4a1e-9faf-3f1e489d673e.png">
