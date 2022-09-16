@@ -55,3 +55,5 @@ Use Intelli Sense or Clangd
 
 ![Pasted Graphic 5](https://user-images.githubusercontent.com/32226325/190559132-c42312f9-6168-4376-82f4-7657786c3e8c.png)
 
+### Serial monitor
+<img width="521" alt="image" src="https://user-images.githubusercontent.com/32226325/190587525-7951a508-38b7-4408-be37-fa55be113805.png">
