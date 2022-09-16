@@ -43,3 +43,15 @@ We should sign in account to sync vscode settings.
 ## Navigate code
 ![Navigation history #](https://user-images.githubusercontent.com/32226325/190558766-f8a52d75-13be-4abe-991b-edb9cc5e698d.png)
 
+## Useful extension
+### Git
+<img width="731" alt="Get Started" src="https://user-images.githubusercontent.com/32226325/190558966-fb81c73e-a797-44cf-b60d-cf6772836740.png">
+
+### Theme
+<img width="744" alt="EXTENSIONS MARKETPLACE" src="https://user-images.githubusercontent.com/32226325/190559015-34922517-b8be-4a42-9905-672ab121ee0a.png">
+
+### Code debugging, navigation
+Use Intelli Senser or Clangd
+
+![Pasted Graphic 5](https://user-images.githubusercontent.com/32226325/190559132-c42312f9-6168-4376-82f4-7657786c3e8c.png)
+
