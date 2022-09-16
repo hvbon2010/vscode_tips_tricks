@@ -39,3 +39,7 @@ We should sign in account to sync vscode settings.
 
 ## Use vscode Intelli Sense to navigate code
 <img width="981" alt="Pasted Graphic" src="https://user-images.githubusercontent.com/32226325/190558435-4e132737-cfea-4a1e-9faf-3f1e489d673e.png">
+
+## Navigate code
+![Navigation history #](https://user-images.githubusercontent.com/32226325/190558766-f8a52d75-13be-4abe-991b-edb9cc5e698d.png)
+
