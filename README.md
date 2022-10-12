@@ -29,8 +29,8 @@ Unfold all:
 ## Fast split a file to right
 `Control + Command + right arrow key`
 
-# Auto clear white space
-<img width="978" alt="image" src="https://user-images.githubusercontent.com/32226325/195313026-0e353051-a24d-4f20-a682-b3c2cf7b5dce.png">
+# Auto clear white space, clear new lines at the end of file
+<img width="1478" alt="image" src="https://user-images.githubusercontent.com/32226325/195314075-d611b2ae-e893-40b5-b791-3c6f35743164.png">
 
 ## Sync account
 We should sign in account to sync vscode settings.
