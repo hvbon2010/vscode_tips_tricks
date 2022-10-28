@@ -32,6 +32,9 @@ Unfold all:
 # Auto clear white space, clear new lines at the end of file
 <img width="1478" alt="image" src="https://user-images.githubusercontent.com/32226325/195314075-d611b2ae-e893-40b5-b791-3c6f35743164.png">
 
+# Tab to Space
+<img width="1243" alt="image" src="https://user-images.githubusercontent.com/32226325/198557617-76015c84-37f1-4b84-b86e-e485bb8ab963.png">
+
 ## Sync account
 We should sign in account to sync vscode settings.
 
