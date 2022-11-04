@@ -35,6 +35,10 @@ Unfold all:
 # Tab to Space
 <img width="1243" alt="image" src="https://user-images.githubusercontent.com/32226325/198557617-76015c84-37f1-4b84-b86e-e485bb8ab963.png">
 
+# Sort lines alpha beta
+![image](https://user-images.githubusercontent.com/32226325/200013399-901fbe96-9f79-49ab-a820-274bf1c1e124.png)
+![image](https://user-images.githubusercontent.com/32226325/200013544-0a2fc9a5-b523-4779-a6bd-3bf9b4bf39f8.png)
+
 ## Sync account
 We should sign in account to sync vscode settings.
 
