@@ -66,3 +66,5 @@ Use Intelli Sense or Clangd
 <img width="521" alt="image" src="https://user-images.githubusercontent.com/32226325/190587525-7951a508-38b7-4408-be37-fa55be113805.png">
 <img width="2037" alt="image" src="https://user-images.githubusercontent.com/32226325/190587639-142ef09c-09b2-461d-b5de-ea0ef042b918.png">
 
+### Compare folders (like meld)
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/32226325/207037203-6b2dd259-d577-4bdc-8c17-c873ee2e832c.png">
