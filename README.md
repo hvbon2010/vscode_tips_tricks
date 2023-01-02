@@ -68,3 +68,6 @@ Use Intelli Sense or Clangd
 
 ### Compare folders (like meld)
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/32226325/207037203-6b2dd259-d577-4bdc-8c17-c873ee2e832c.png">
+
+### Generate documents
+<img width="721" alt="image" src="https://user-images.githubusercontent.com/32226325/210219576-0385ae04-626a-4500-a1f8-796d4bde6371.png">
